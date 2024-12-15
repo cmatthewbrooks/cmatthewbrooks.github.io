@@ -1,0 +1,10 @@
+title:              Matt Brooks
+description:        'My personal website'
+domain:             cmatthewbrooks.github.io
+url:                https://cmatthewbrooks.github.io
+twitter_username:   cmatthewbrooks
+github_username:    cmatthewbrooks
+paginate:           3
+exclude:
+  - README.md
+  - LICENSE.md
